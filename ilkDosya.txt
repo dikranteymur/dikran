@@ -3,3 +3,4 @@ Ilk dosya eklendi
 
 - Main'de pull icin degisiklik yapildi
 - ilk dosyada degisiklik yapildi - Developer icinden
+- Calisma devam ediyor
