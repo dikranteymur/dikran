@@ -1,2 +1,4 @@
 [MAIN]
 Ilk dosya eklendi
+
+- Main'de pull icin degisiklik yapildi
