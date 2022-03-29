@@ -3,3 +3,4 @@ Ilk dosya eklendi
 
 - Main'de pull icin degisiklik yapildi
 - Pull sonrasi degisiklik yapildi (son islem)
+- Main'de islem devam ediyor
