@@ -1,3 +1,4 @@
 [Developer]
 
 - Developer'da degisiklik yapildi
+- Developer'da calismalar devam ediyor
