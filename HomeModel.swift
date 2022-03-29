@@ -14,3 +14,7 @@ struct Profile {
     var name: String?
     var surname: String?
 }
+
+struct GetAge {
+    var age: Int?
+}
