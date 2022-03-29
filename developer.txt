@@ -3,3 +3,5 @@
 - Developer'da degisiklik yapildi
 - Developer'da calismalar devam ediyor
 - Pull sonrasi calisma devam ediyor
+
+- Son degisiklik
