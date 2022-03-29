@@ -10,4 +10,12 @@ class Profile {
     func sayHello() {
         print("Merhaba, \(name) \(surname)")
     }
+
+    func getName() -> String {
+        return name
+    }
+
+    func getSurname() -> String {
+        return surname
+    }
 }
