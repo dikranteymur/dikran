@@ -9,3 +9,12 @@ struct Address {
     var lon: Double?
     var lan: Double?
 }
+
+struct Profile {
+    var name: String?
+    var surname: String?
+}
+
+struct GetAge {
+    var age: Int?
+}
